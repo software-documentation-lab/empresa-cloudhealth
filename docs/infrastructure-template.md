@@ -2,6 +2,17 @@
 
 > Use este template como base para preencher `docs/infrastructure.md`.
 
+## Metadados do Documento
+- Documento:
+- Versão:
+- Status: Rascunho | Em revisão | Aprovado
+- Responsável (owner):
+- Aprovador:
+- Última atualização:
+- Próxima revisão:
+- Público-alvo:
+- Classificação da informação: Interna | Restrita | Confidencial
+
 ## 1. Visão Geral
 - Objetivo da infraestrutura:
 - Escopo da documentação:
