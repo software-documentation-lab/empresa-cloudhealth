@@ -71,3 +71,17 @@
 - Riscos técnicos atuais:
 - Gaps de documentação:
 - Evoluções recomendadas:
+
+
+## Anexos e Referências
+- Diagramas de topologia e rede:
+- Inventário/planilha de componentes:
+- Políticas de backup/segurança relacionadas:
+- Links de PRs/issues relacionados:
+
+## Checklist de Qualidade (pré-entrega)
+- [ ] Ambientes e topologia descritos com clareza.
+- [ ] Segurança, observabilidade e continuidade cobertas.
+- [ ] Backup, recuperação e RPO/RTO registrados.
+- [ ] Capacidade, custos e riscos mapeados.
+- [ ] Premissas, lacunas e riscos preenchidos.
